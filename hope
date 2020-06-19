@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>网站收藏夹</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            h2{ color: #66ff66;}
+            body{ letter-spacing: 4px;}
+            .text{ text-align: center;}
+            .text_1{letter-spacing: 10px; line-height: 20px; }
+        </style>
+    </head>
+    <body class="text">
+        <h2>网站收藏夹</h2>
+        <div>
+            <p class="text_1"><a href="考研类网站/KaoYan_Web.html">一、考研所需要的网站汇总【手动置顶】</a></p>
+        </div>
+        <div>
+            <p class="text_1"><a href="school.html">※全球高校教育资源站点</a></p>
+        </div>
+        <div>
+            <p class="text_1"><a href="法律网站/Law_web.html">二、法学类网站</a></p>
+        </div>
+        <div>
+            <p class="text_1"><a href="Pdf_books.html">三、电子书汇集网站</a></p>
+        </div>
+        <div>
+            <p class="text_1"><a href="英语类网站/English.html">四、英语类网站合集</a></p>
+        </div>
+        <div>
+            <p class="text_1"><a href="paper.html">五、论文相关网站汇总【N多！】</a></p>
+        </div>
+        <div>
+            <p class="text_1"><a href="计算机系列.html">✔计算机系列相关网站汇总</a></p>
+        </div>
+        <div>
+            <p class="text_1"><a href="文件在线处理/File_transform.html">六、免费在线处理文件系列</a></p>
+        </div>
+        <div>
+            <p class="text_1">++++++++++++++++++++++++++++</p>
+        </div>
+        <div>
+            <p class="text_1"><a href="办公软件系列/Software.html">①办公软件系列【模板/获取/流程图】</a></p>
+        </div>
+        <div>
+            <p class="text_1"><a href="Hei_web.html">②超赞的黑科技系列</a></p>
+        </div>
+        <div>
+            <p class="text_1"><a href="#">③电影/电视剧资源【最爱！！！】[未更]</a></p>
+        </div>
+        
+        <div>
+            <p class="text_1"><a href="Free_WEb.html">♥未分类网站</a></p>
+        </div>
+        
+    </body>
+</html>
